@@ -1,4 +1,6 @@
 theme = Melange_light
 font-family = JetBrains Mono Nerd Font
 font-size = 11
-background-opacity = 0.95
+# background-opacity = 0.99
+
+bold-is-bright = true
